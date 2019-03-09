@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Make sure you give execute privileges
------------------------------------------------------------------------------
-
-           Spark with Python: Your first Spark Program
-
-             Copyright : V2 Maestros @2016
-                    
-Please make sure to execute "SETUP Python for Spark.py" before running this
------------------------------------------------------------------------------
-"""
 
 #Initialize SparkSession and SparkContext
 from pyspark.sql import SparkSession
