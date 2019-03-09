@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
------------------------------------------------------------------------------
-
-                   Spark with Python
-
-             Copyright : V2 Maestros @2016
-                    
-Code Samples : Spark Processing
------------------------------------------------------------------------------
-"""
-#Please run SETUP Python for Spark.py before this.
 
 #............................................................................
 ##   Loading and Storing Data
